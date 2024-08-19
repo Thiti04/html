@@ -12,11 +12,11 @@ def  ชื่อที่เราตั้ง(request):
     path('ใส่ชื่อที่เราตั้ง',views.ชื่อที่เราตั้ง)
 #เเก้ในbase
 <li class="nav-item">
-    <a class="nav-link" href="moblie/">
-      <i class="fas fa-fw fa-table"></i>
-     <span>moblie</span></a
-  >
-</li>
+<a class="nav-link" href="moblie/">
+<i class="fas fa-fw fa-table"></i>
+<span>moblie</span></a
+ >
+</li> 
 
 <li class="nav-item">
     <a class="nav-link" href="ชื่อที่เราตั้ง/">
