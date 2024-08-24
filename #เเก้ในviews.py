@@ -42,3 +42,4 @@ from home import views
 from django.urls import path,include
 path('',include("home.urls")), 
 '' คือหน้าเเรกให้ไปที่ home.urlsเลย
+หน้า base.html คือพื้นหลัง ไม่ต้องเชื่อมพาส
